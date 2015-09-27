@@ -1,0 +1,4 @@
+UCI HAR Dataset
+*.txt
+.RData
+.Rhistory
